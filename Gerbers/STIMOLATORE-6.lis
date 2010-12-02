@@ -1,0 +1,158 @@
+Post Processor Report
+OrCAD FILE: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.MAX
+Thu Dec 02 15:16:19 2010
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.BOT
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.BOT:
+---------------------------------------------------------
+D10:  0.1150 ROUND  --       0 Draws,       1 Flashes
+D11:  0.0950 x 0.0760 OBLONG    -----      10 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----       4 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----       1 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       1 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       1 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       1 Flashes
+D17:  0.0236 x 0.0590 RECTANGLE -----      16 Flashes
+D18:  0.0374 x 0.0571 RECTANGLE -----      14 Flashes
+D19:  0.0571 x 0.0374 RECTANGLE -----       2 Flashes
+D20:  0.0100 ROUND  --      27 Draws,       0 Flashes
+D21:  0.0140 ROUND  --     361 Draws,       0 Flashes
+D22:  0.0010 ROUND  --    1445 Draws,       0 Flashes
+D23:  0.0120 ROUND  --      49 Draws,       0 Flashes
+D24:  0.0080 ROUND  --      88 Draws,       0 Flashes
+D25:  0.0140 ROUND  --       0 Draws,      19 Flashes
+---------------------------------------------------------
+ 16 D-Codes      -----    1970 Draws,      70 Flashes
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.SMB
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.SMB:
+---------------------------------------------------------
+D11:  0.0950 x 0.0760 OBLONG    -----      10 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----       4 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----       1 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       1 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       1 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       1 Flashes
+D17:  0.0236 x 0.0590 RECTANGLE -----      16 Flashes
+D18:  0.0374 x 0.0571 RECTANGLE -----      14 Flashes
+D19:  0.0571 x 0.0374 RECTANGLE -----       2 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----       0 Draws,      50 Flashes
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.SPB
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.SPB:
+---------------------------------------------------------
+D11:  0.0950 x 0.0760 OBLONG    -----       4 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----       4 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----       7 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       1 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       1 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       1 Flashes
+D17:  0.0236 x 0.0590 RECTANGLE -----      16 Flashes
+D18:  0.0374 x 0.0571 RECTANGLE -----      14 Flashes
+D19:  0.0571 x 0.0374 RECTANGLE -----       2 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----       0 Draws,      50 Flashes
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.SST
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.SST:
+---------------------------------------------------------
+D11:  0.0950 x 0.0760 OBLONG    -----       4 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----       4 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----       7 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       1 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       1 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       1 Flashes
+D20:  0.0100 ROUND  --      18 Draws,       0 Flashes
+D23:  0.0120 ROUND  --       4 Draws,       0 Flashes
+D24:  0.0080 ROUND  --     141 Draws,       0 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----     163 Draws,      18 Flashes
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.AST
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.AST:
+---------------------------------------------------------
+D11:  0.0950 x 0.0760 OBLONG    -----      10 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----       4 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----       1 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       1 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       1 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       1 Flashes
+D20:  0.0100 ROUND  --      22 Draws,       0 Flashes
+D23:  0.0120 ROUND  --       4 Draws,       0 Flashes
+D24:  0.0080 ROUND  --     488 Draws,       2 Flashes
+D25:  0.0140 ROUND  --       0 Draws,      19 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----     514 Draws,      39 Flashes
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.ASB
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.ASB:
+---------------------------------------------------------
+D11:  0.0950 x 0.0760 OBLONG    -----      10 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----       4 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----       1 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       1 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       1 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       1 Flashes
+D20:  0.0100 ROUND  --       4 Draws,       0 Flashes
+D26:  0.0039 ROUND  --      48 Draws,       0 Flashes
+D27:  0.0059 ROUND  --     138 Draws,       0 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----     190 Draws,      18 Flashes
+
+*********************************************************
+
+Output file: C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.DRD
+
+Aperture totals for C:\ORCAD\PROGETTI\EPOKH STIMOLATORE GVS\STIMOLATORE-6.DRD:
+---------------------------------------------------------
+D20:  0.0100 ROUND  --     376 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----     376 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.1150 ROUND  --       0 Draws,       1 Flashes
+D11:  0.0950 x 0.0760 OBLONG    -----      48 Flashes
+D12:  0.0950 x 0.0760 RECTANGLE -----      24 Flashes
+D13:  0.0760 x 0.0950 OBLONG    -----      18 Flashes
+D14:  0.0760 x 0.0950 RECTANGLE -----       6 Flashes
+D15:  0.1575 x 0.1181 OBLONG    -----       6 Flashes
+D16:  0.1575 x 0.1181 RECTANGLE -----       6 Flashes
+D17:  0.0236 x 0.0590 RECTANGLE -----      48 Flashes
+D18:  0.0374 x 0.0571 RECTANGLE -----      42 Flashes
+D19:  0.0571 x 0.0374 RECTANGLE -----       6 Flashes
+D20:  0.0100 ROUND  --     447 Draws,       0 Flashes
+D21:  0.0140 ROUND  --     361 Draws,       0 Flashes
+D22:  0.0010 ROUND  --    1445 Draws,       0 Flashes
+D23:  0.0120 ROUND  --      57 Draws,       0 Flashes
+D24:  0.0080 ROUND  --     717 Draws,       2 Flashes
+D25:  0.0140 ROUND  --       0 Draws,      38 Flashes
+D26:  0.0039 ROUND  --      48 Draws,       0 Flashes
+D27:  0.0059 ROUND  --     138 Draws,       0 Flashes
+---------------------------------------------------------
+ 18 D-Codes      -----    3213 Draws,     245 Flashes
+
+
+No warnings or errors.
